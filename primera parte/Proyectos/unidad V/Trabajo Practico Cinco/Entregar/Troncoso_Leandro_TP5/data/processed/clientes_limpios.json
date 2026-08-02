@@ -1,0 +1,97 @@
+[
+  {
+    "nombre": "Ana Lopez",
+    "telefono": "3514567890",
+    "email": "ana@gmail.com"
+  },
+  {
+    "nombre": "Juan Perez",
+    "telefono": "3515551234",
+    "email": "juan_perez88@hotmail.com"
+  },
+  {
+    "nombre": "Maria Garcia",
+    "telefono": "3514567788",
+    "email": "mgarcia@yahoo.com.ar"
+  },
+  {
+    "nombre": "Carlos Gomez",
+    "telefono": "Desconocido",
+    "email": "cgomez@empresa.com"
+  },
+  {
+    "nombre": "Laura Mendez",
+    "telefono": "Desconocido",
+    "email": "laura@mail.com"
+  },
+  {
+    "nombre": "Sofia Martinez",
+    "telefono": "3512223344",
+    "email": "sofia.m@gmail.com"
+  },
+  {
+    "nombre": "Pedro Alvarez",
+    "telefono": "3514445555",
+    "email": "p.alvarez@outlook.com"
+  },
+  {
+    "nombre": "Lucia Torres",
+    "telefono": "3511112222",
+    "email": "lutorres@gmail.com"
+  },
+  {
+    "nombre": "Marta Sanchez",
+    "telefono": "3519998888",
+    "email": "marta.sanchez@uol.com.br"
+  },
+  {
+    "nombre": "Jorge Rodriguez",
+    "telefono": "3514441111",
+    "email": "jrodriguez@gmail.com"
+  },
+  {
+    "nombre": "Elena Paz",
+    "telefono": "3515550000",
+    "email": "epaz@proyectos.org"
+  },
+  {
+    "nombre": "Ricardo Fort",
+    "telefono": "3510001122",
+    "email": "ricky@gmail.com"
+  },
+  {
+    "nombre": "Beatriz Pinzon",
+    "telefono": "3519990000",
+    "email": "b.pinzon@eco-moda.com"
+  },
+  {
+    "nombre": "Fede Tolosa",
+    "telefono": "3514545454",
+    "email": "federico@tolosa.com.ar"
+  },
+  {
+    "nombre": "Esteban Quito",
+    "telefono": "Desconocido",
+    "email": "equito@gmail.com"
+  },
+  {
+    "nombre": "Valentina Flores",
+    "telefono": "3517776655",
+    "email": "vflores@gmail.com"
+  },
+  {
+    "nombre": "Monica Galindo",
+    "telefono": "3512221111",
+    "email": "moni.g@hotmail.com"
+  },
+  {
+    "nombre": "Gustavo Cerati",
+    "telefono": "3514440000",
+    "email": "soda@stereo.com"
+  },
+  {
+    "nombre": "Mariana Enríquez",
+    "telefono": "3516663333",
+    "email": "m.enriquez@letras.ar"
+  }
+]

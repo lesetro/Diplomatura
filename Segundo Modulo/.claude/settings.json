@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import json; nb=json.load\\(open\\('TP1_Estadistica_Descriptiva_1.ipynb','r',encoding='utf-8'\\)\\); print\\(json.dumps\\(nb['nbformat']\\), json.dumps\\(nb.get\\('nbformat_minor'\\)\\), list\\(nb['metadata'].keys\\(\\)\\)\\); c=nb['cells'][2]; print\\(json.dumps\\(c['cell_type']\\), json.dumps\\(c['id']\\), json.dumps\\(c['source'][:50] if c['source'] else []\\)\\)\")",
+      "PowerShell(python \"C:\\\\Users\\\\Personal\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Diplomatura-en-Python-Segundo-Modulo\\\\fe692911-61f8-4adf-a87a-da3bfc663698\\\\scratchpad\\\\fix_tp2.py\")",
+      "PowerShell(python \"C:\\\\Users\\\\Personal\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Diplomatura-en-Python-Segundo-Modulo\\\\fe692911-61f8-4adf-a87a-da3bfc663698\\\\scratchpad\\\\fix_tp4.py\")",
+      "PowerShell(python \"C:\\\\Users\\\\Personal\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Diplomatura-en-Python-Segundo-Modulo\\\\fe692911-61f8-4adf-a87a-da3bfc663698\\\\scratchpad\\\\fix_tp6.py\")",
+      "PowerShell(python \"C:\\\\Users\\\\Personal\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Diplomatura-en-Python-Segundo-Modulo\\\\fe692911-61f8-4adf-a87a-da3bfc663698\\\\scratchpad\\\\create_resumen_tp1.py\")"
+    ]
+  }
+}

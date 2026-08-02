@@ -1,0 +1,10 @@
+Titulo: Nueva IA revoluciona la industria | Link: https://tech.com/ia | Fecha: 2024-05-10 | Categoria: Tecnologia
+Titulo: Economia en alza | Link: economia.com | Fecha: 10/05/2024 | Categoria: economia
+Titulo: Deportes hoy | Link: https://deportes.com | Fecha: 2024/05/10 | Categoria:
+Titulo: Noticia sin link | Fecha: 2024-05-10 | Categoria: general
+Titulo: URL con espacios | Link:   https://espacios.com   | Fecha: 2024-05-12 | Categoria: Sociedad
+Titulo: Email en vez de URL | Link: contacto@site.com | Fecha: 2024-05-12 | Categoria: tecnologia
+Titulo: Fecha inválida | Link: https://fecha.com | Fecha: 32/13/2024 | Categoria: ciencia
+Titulo: Duplicado | Link: https://tech.com/ia | Fecha: 2024-05-11 | Categoria: tecnologia
+Titulo: Titulo    con   espacios | Link: http://espaciado.com | Fecha: 2024-05-09 | Categoria:  Cultura
+Titulo: Sin categoria | Link: https://nocat.com | Fecha: 2024-05-08 | Categoria:

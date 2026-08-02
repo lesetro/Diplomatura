@@ -1,0 +1,28 @@
+### INICIO DE LOTE - SISTEMA DE INGESTA V2.4 ###
+ID: 001 - Cliente: Ana Lopez - Tel: 351-4567890 - Mail: ANA@GMAIL.COM
+Juan Perez | 351 555 1234 | juan_perez88@hotmail.com
+Registro Corrupto ##### Error 404 #####
+Cli: Maria Garcia - Tel: 3514567788 - Mail: mgarcia@yahoo.com.ar
+Carlos Gomez sin telefono - Mail: cgomez@empresa.com
+    Contacto: Laura Mendez - 351-abc-1234 - laura@mail.com
+ID: 002 - Cliente: Ana Lopez - Tel: 351-4567890 - Mail: ANA@GMAIL.COM
+Sofia Martinez ; 3512223344 ; sofia.m@gmail.com
+PEDRO ALVAREZ / 3514445555 / p.alvarez@outlook.com
+Cliente Nuevo: Lucia Torres - Cel: (351) 111 2222 - lutorres@gmail.com
+--------------------------------------------------
+ID: 003 - Roberto Gomez - Tel: 3516667777 - Mail: robertog@gmail
+Marta Sanchez , 351-999-8888 , marta.sanchez@uol.com.br
+### LINEA DE SISTEMA - LOG 2024-03-09 ###
+Jorge Rodriguez | tel 351.444.1111 | jrodriguez@gmail.com
+Cli: "Elena Paz" - Tel: 351-555-0000 - Mail: epaz@proyectos.org
+Ricardo Fort - Cel: 351 000 1122 - ricky@gmail.com
+Socio: Beatriz Pinzon - 351-999-0000 - b.pinzon@eco-moda.com
+ID: 004 - Cliente: Juan Perez - Tel: 3515551234 - Mail: juan_perez88@hotmail.com
+fede_tolosa - 3514545454 - federico@tolosa.com.ar
+Esteban Quito / Tel: 123 / equito@gmail.com
+ID: 005 - Valentina Flores - Tel: 351-777-6655 - Mail: vflores@gmail.com
+Monica Galindo | 351 222 1111 | moni.g@hotmail.com
+GUSTAVO CERATI - 351 444 0000 - soda@stereo.com
+Cli: Mariana Enríquez - Tel: 351-666-3333 - Mail: m.enriquez@letras.ar
+Dato Incompleto - Cliente: Pablo Picasso - Tel: 351-1234567
+### FIN DE ARCHIVO - TOTAL REGISTROS: 25 ###

@@ -1,0 +1,80 @@
+2026-04-08 23:58:04,450 - INFO - Iniciando carga del archivo: /home/claude/proyecto_final/data/raw/ingesta_cruda.txt
+2026-04-08 23:58:04,450 - INFO - Archivo cargado exitosamente. 28 líneas leídas.
+2026-04-08 23:58:04,450 - INFO - Línea 1 ignorada: línea de sistema o vacía
+2026-04-08 23:58:04,451 - INFO - Línea 4 ignorada: línea de sistema o vacía
+2026-04-08 23:58:04,451 - INFO - Línea 6: teléfono marcado como Desconocido para Carlos Gomez
+2026-04-08 23:58:04,451 - INFO - Línea 7: teléfono marcado como Desconocido para Laura Mendez
+2026-04-08 23:58:04,452 - WARNING - Línea 8 descartada: email duplicado (ana@gmail.com) - Ana Lopez
+2026-04-08 23:58:04,452 - INFO - Línea 12 ignorada: línea de sistema o vacía
+2026-04-08 23:58:04,452 - WARNING - Línea 13 descartada: email inválido o faltante - Roberto Gomez
+2026-04-08 23:58:04,452 - INFO - Línea 15 ignorada: línea de sistema o vacía
+2026-04-08 23:58:04,452 - WARNING - Línea 20 descartada: email duplicado (juan_perez88@hotmail.com) - Juan Perez
+2026-04-08 23:58:04,452 - INFO - Línea 22: teléfono marcado como Desconocido para Esteban Quito
+2026-04-08 23:58:04,452 - WARNING - Línea 27 descartada: email inválido o faltante - Pablo Picasso
+2026-04-08 23:58:04,452 - INFO - Línea 28 ignorada: línea de sistema o vacía
+2026-04-08 23:58:04,452 - INFO - Carga completada: 19 válidos, 9 descartados
+2026-04-08 23:58:04,453 - INFO - Datos exportados a CSV: /home/claude/proyecto_final/data/processed/clientes_limpios.csv
+2026-04-08 23:58:04,454 - INFO - Datos exportados a JSON: /home/claude/proyecto_final/data/processed/clientes_limpios.json
+2026-04-12 06:30:51,250 - INFO - ==================================================
+2026-04-12 06:30:51,252 - INFO - INICIO DEL PROGRAMA
+2026-04-12 06:30:51,252 - INFO - ==================================================
+2026-04-12 06:31:02,742 - INFO - ==================================================
+2026-04-12 06:31:02,742 - INFO - INICIO DEL PROGRAMA
+2026-04-12 06:31:02,743 - INFO - ==================================================
+2026-04-12 06:31:02,744 - INFO - Iniciando carga del archivo: C:\Diplomatura en Python\primera parte\Proyectos\unidad V\Trabajo Practico Cinco\Entregar\proyecto_final\data\raw\ingesta_cruda.txt
+2026-04-12 06:31:02,747 - INFO - Archivo cargado exitosamente. 28 líneas leídas.
+2026-04-12 06:31:02,747 - INFO - Línea 1 ignorada: línea de sistema o vacía
+2026-04-12 06:31:02,751 - INFO - Línea 4 ignorada: línea de sistema o vacía
+2026-04-12 06:31:02,751 - INFO - Línea 6: teléfono marcado como Desconocido para Carlos Gomez
+2026-04-12 06:31:02,752 - INFO - Línea 7: teléfono marcado como Desconocido para Laura Mendez
+2026-04-12 06:31:02,752 - WARNING - Línea 8 descartada: email duplicado (ana@gmail.com) - Ana Lopez
+2026-04-12 06:31:02,752 - INFO - Línea 12 ignorada: línea de sistema o vacía
+2026-04-12 06:31:02,753 - WARNING - Línea 13 descartada: email inválido o faltante - Roberto Gomez
+2026-04-12 06:31:02,753 - INFO - Línea 15 ignorada: línea de sistema o vacía
+2026-04-12 06:31:02,754 - WARNING - Línea 20 descartada: email duplicado (juan_perez88@hotmail.com) - Juan Perez
+2026-04-12 06:31:02,754 - INFO - Línea 22: teléfono marcado como Desconocido para Esteban Quito
+2026-04-12 06:31:02,755 - WARNING - Línea 27 descartada: email inválido o faltante - Pablo Picasso
+2026-04-12 06:31:02,755 - INFO - Línea 28 ignorada: línea de sistema o vacía
+2026-04-12 06:31:02,756 - INFO - Carga completada: 19 válidos, 9 descartados
+2026-04-12 06:31:02,763 - INFO - Datos exportados a CSV: C:\Diplomatura en Python\primera parte\Proyectos\unidad V\Trabajo Practico Cinco\Entregar\proyecto_final\data\processed\clientes_limpios.csv
+2026-04-12 06:31:02,769 - INFO - Datos exportados a JSON: C:\Diplomatura en Python\primera parte\Proyectos\unidad V\Trabajo Practico Cinco\Entregar\proyecto_final\data\processed\clientes_limpios.json
+2026-04-12 06:31:02,769 - INFO - Programa terminado exitosamente
+2026-04-12 06:35:47,842 - INFO - ==================================================
+2026-04-12 06:35:47,972 - INFO - INICIO DEL PROGRAMA
+2026-04-12 06:35:48,016 - INFO - ==================================================
+2026-04-12 06:36:14,585 - INFO - Iniciando carga del archivo: c:\Diplomatura en Python\primera parte\Proyectos\unidad V\Trabajo Practico Cinco\Entregar\proyecto_final\data\raw\ingesta_cruda.txt
+2026-04-12 06:36:14,586 - INFO - Archivo cargado exitosamente. 28 líneas leídas.
+2026-04-12 06:36:14,588 - INFO - Línea 1 ignorada: línea de sistema o vacía
+2026-04-12 06:36:14,591 - INFO - Línea 4 ignorada: línea de sistema o vacía
+2026-04-12 06:36:14,593 - INFO - Línea 6: teléfono marcado como Desconocido para Carlos Gomez
+2026-04-12 06:36:14,595 - INFO - Línea 7: teléfono marcado como Desconocido para Laura Mendez
+2026-04-12 06:36:14,598 - WARNING - Línea 8 descartada: email duplicado (ana@gmail.com) - Ana Lopez
+2026-04-12 06:36:14,634 - INFO - Línea 12 ignorada: línea de sistema o vacía
+2026-04-12 06:36:14,635 - WARNING - Línea 13 descartada: email inválido o faltante - Roberto Gomez
+2026-04-12 06:36:14,637 - INFO - Línea 15 ignorada: línea de sistema o vacía
+2026-04-12 06:36:14,638 - WARNING - Línea 20 descartada: email duplicado (juan_perez88@hotmail.com) - Juan Perez
+2026-04-12 06:36:14,639 - INFO - Línea 22: teléfono marcado como Desconocido para Esteban Quito
+2026-04-12 06:36:14,700 - WARNING - Línea 27 descartada: email inválido o faltante - Pablo Picasso
+2026-04-12 06:36:14,702 - INFO - Línea 28 ignorada: línea de sistema o vacía
+2026-04-12 06:36:14,705 - INFO - Carga completada: 19 válidos, 9 descartados
+2026-04-15 05:29:19,038 - INFO - ==================================================
+2026-04-15 05:29:19,060 - INFO - INICIO DEL PROGRAMA
+2026-04-15 05:29:19,061 - INFO - ==================================================
+2026-04-15 05:29:35,853 - INFO - Iniciando carga del archivo: c:\Diplomatura en Python\primera parte\Proyectos\unidad V\Trabajo Practico Cinco\Entregar\proyecto_final\data\raw\ingesta_cruda.txt
+2026-04-15 05:29:35,878 - INFO - Archivo cargado exitosamente. 28 líneas leídas.
+2026-04-15 05:29:35,880 - INFO - Línea 1 ignorada: línea de sistema o vacía
+2026-04-15 05:29:35,886 - INFO - Línea 4 ignorada: línea de sistema o vacía
+2026-04-15 05:29:35,887 - INFO - Línea 6: teléfono marcado como Desconocido para Carlos Gomez
+2026-04-15 05:29:35,889 - INFO - Línea 7: teléfono marcado como Desconocido para Laura Mendez
+2026-04-15 05:29:35,893 - WARNING - Línea 8 descartada: email duplicado (ana@gmail.com) - Ana Lopez
+2026-04-15 05:29:35,948 - INFO - Línea 12 ignorada: línea de sistema o vacía
+2026-04-15 05:29:35,950 - WARNING - Línea 13 descartada: email inválido o faltante - Roberto Gomez
+2026-04-15 05:29:35,951 - INFO - Línea 15 ignorada: línea de sistema o vacía
+2026-04-15 05:29:35,953 - WARNING - Línea 20 descartada: email duplicado (juan_perez88@hotmail.com) - Juan Perez
+2026-04-15 05:29:35,970 - INFO - Línea 22: teléfono marcado como Desconocido para Esteban Quito
+2026-04-15 05:29:35,988 - WARNING - Línea 27 descartada: email inválido o faltante - Pablo Picasso
+2026-04-15 05:29:35,994 - INFO - Línea 28 ignorada: línea de sistema o vacía
+2026-04-15 05:29:36,004 - INFO - Carga completada: 19 válidos, 9 descartados
+2026-04-15 05:30:25,956 - INFO - Datos exportados a CSV: c:\Diplomatura en Python\primera parte\Proyectos\unidad V\Trabajo Practico Cinco\Entregar\proyecto_final\data\processed\clientes_limpios.csv
+2026-04-15 05:30:25,962 - INFO - Datos exportados a JSON: c:\Diplomatura en Python\primera parte\Proyectos\unidad V\Trabajo Practico Cinco\Entregar\proyecto_final\data\processed\clientes_limpios.json
+2026-04-15 05:30:25,970 - INFO - Programa terminado exitosamente

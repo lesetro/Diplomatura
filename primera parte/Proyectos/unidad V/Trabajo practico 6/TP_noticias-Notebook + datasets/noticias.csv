@@ -1,0 +1,10 @@
+titulo,url,fecha,categoria
+Nueva IA,http://tech.com/ia,2024-05-10, Tecnologia
+Economia,economia.com,10/05/2024,economia
+Deportes hoy,https://deportes.com,2024/05/10,
+Noticia repetida,https://tech.com/ia,2024-05-11,tecnologia
+URL con espacios, https://espacios.com ,2024-05-12,Sociedad
+Email como URL,contacto@site.com,2024-05-12,tecnologia
+Fecha inválida,https://fecha.com,32/13/2024,ciencia
+Titulo vacío,,2024-05-10,General
+Mayúsculas HTTPS,HTTPS://MAYUS.com,2024-05-07,TECNOLOGIA
